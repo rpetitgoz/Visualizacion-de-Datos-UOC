@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Tres visualizaciones sobre la distribución de los núcleos poblados de España, la taxonomía de Papilionidae y el comercio europeo.">
+  <title>Visualización de datos | Roger Petit Gozálvez</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      color-scheme: light;
+      --paper: #f7f8f6;
+      --ink: #202821;
+      --muted: #59645d;
+      --line: #cdd5cf;
+      --green: #245c47;
+      --red: #ad413d;
+      --blue: #235d82;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; scroll-padding-top: 24px; }
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font: 16px/1.65 "DM Sans", sans-serif;
+    }
+    a { color: inherit; text-underline-offset: 5px; }
+    a:hover { color: var(--green); }
+    a:focus-visible { outline: 3px solid var(--blue); outline-offset: 5px; }
+    .wrap { width: min(1120px, calc(100% - 64px)); margin-inline: auto; }
+    .skip-link {
+      position: absolute;
+      top: -80px;
+      left: 16px;
+      padding: 8px 16px;
+      background: white;
+      z-index: 10;
+    }
+    .skip-link:focus { top: 12px; }
+    .masthead {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 8px 24px;
+      padding-block: 22px;
+      border-bottom: 1px solid var(--line);
+      font-size: 13px;
+    }
+    .course { font-weight: 700; }
+    .author { color: var(--muted); }
+    .intro {
+      padding-block: 48px 32px;
+      background-image: radial-gradient(var(--line) 0.7px, transparent 0.7px);
+      background-size: 12px 12px;
+    }
+    .eyebrow {
+      margin: 0 0 14px;
+      color: var(--green);
+      font-size: 12px;
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+    h1, h2 { font-family: "Libre Baskerville", Georgia, serif; font-weight: 400; }
+    h1 { margin: 0; font-size: 48px; line-height: 1.2; }
+    .lead { max-width: 650px; margin: 20px 0 26px; font-size: 18px; }
+    .contents { display: flex; flex-wrap: wrap; gap: 12px 28px; }
+    .contents a { font-size: 14px; text-decoration: none; }
+    .contents a:hover { text-decoration: underline; }
+    .contents span { margin-right: 7px; color: var(--muted); font-size: 12px; }
+    .project { padding-block: 38px 48px; border-top: 1px solid var(--line); }
+    .project-heading { display: flex; align-items: flex-start; gap: 20px; }
+    .number { flex: 0 0 38px; padding-top: 4px; font-size: 14px; color: var(--green); }
+    h2 { margin: 0; font-size: 29px; line-height: 1.35; }
+    .description { max-width: 750px; margin: 16px 0 20px; color: var(--muted); }
+    .project-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      flex-wrap: wrap;
+      gap: 8px 24px;
+      margin-bottom: 20px;
+      font-size: 13px;
+    }
+    .project-meta p { margin: 0; color: var(--muted); }
+    .project-meta a { font-weight: 600; }
+    figure { margin: 0; }
+    .map-image { display: block; width: 100%; height: auto; aspect-ratio: 10 / 7; background: #000; }
+    figcaption { margin-top: 12px; color: var(--muted); font-size: 12px; }
+    .visualization { display: block; width: 100%; border: 1px solid var(--line); background: white; }
+    .taxonomy-frame { height: 600px; }
+    .trade-frame { height: 680px; }
+    #taxonomia .number { color: var(--red); }
+    #comercio .number { color: var(--blue); }
+    footer {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 8px 24px;
+      padding-block: 24px 32px;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 12px;
+    }
+    footer p { margin: 0; }
+    @media (max-width: 640px) {
+      .wrap { width: calc(100% - 32px); }
+      .masthead { padding-block: 16px; }
+      .intro { padding-block: 32px 28px; }
+      h1 { font-size: 34px; }
+      .lead { font-size: 16px; }
+      .contents { gap: 10px 20px; }
+      .project { padding-block: 28px 32px; }
+      .project-heading { gap: 10px; }
+      .number { flex-basis: 26px; }
+      h2 { font-size: 24px; }
+      .taxonomy-frame { height: 460px; }
+      .trade-frame { height: 600px; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#contenido">Saltar al contenido</a>
+  <header class="masthead wrap">
+    <span class="course">UOC / PEC 2</span>
+    <span class="author">Roger Petit Gozálvez</span>
+  </header>
+
+  <main id="contenido">
+    <div class="intro">
+      <div class="wrap">
+        <p class="eyebrow">Territorio / Jerarquías / Conexiones</p>
+        <h1>Visualización de datos</h1>
+        <p class="lead">Tres miradas a los datos: dónde se asienta la población, cómo se organiza una familia de mariposas y qué conexiones dibuja el comercio europeo.</p>
+        <nav class="contents" aria-label="Visualizaciones">
+          <a href="#poblacion"><span>01</span> Población</a>
+          <a href="#taxonomia"><span>02</span> Taxonomía</a>
+          <a href="#comercio"><span>03</span> Comercio</a>
+        </nav>
+      </div>
+    </div>
+
+    <section class="project wrap" id="poblacion" aria-labelledby="poblacion-title">
+      <div class="project-heading">
+        <span class="number" aria-hidden="true">01</span>
+        <h2 id="poblacion-title">Núcleos poblados de España</h2>
+      </div>
+      <p class="description">La distribución de los núcleos con población registrada permite reconocer concentraciones y vacíos en el territorio. Cada punto representa una localidad, no su número de habitantes.</p>
+      <div class="project-meta">
+        <p>Mapa de puntos · España · 2026</p>
+        <a href="mapa_poblados_spain.png" target="_blank" rel="noopener">Ver imagen completa</a>
+      </div>
+      <figure>
+        <img class="map-image" src="mapa_poblados_spain.png" width="3000" height="2100" fetchpriority="high" alt="Mapa de España sobre fondo negro, con puntos amarillos que sitúan los núcleos poblados de la península, Baleares y Canarias.">
+        <figcaption>Datos: GeoNames. Núcleos de clase P con población mayor que cero. Los ejes están recortados para acercar Canarias a la península.</figcaption>
+      </figure>
+    </section>
+
+    <section class="project wrap" id="taxonomia" aria-labelledby="taxonomia-title">
+      <div class="project-heading">
+        <span class="number" aria-hidden="true">02</span>
+        <h2 id="taxonomia-title">La familia Papilionidae</h2>
+      </div>
+      <p class="description">Un árbol hiperbólico representa la clasificación de esta familia de mariposas. Sus ramas muestran las relaciones jerárquicas entre los taxones, desde los grupos generales hasta sus descendientes.</p>
+      <div class="project-meta">
+        <p>Árbol hiperbólico · Taxonomía biológica</p>
+        <a href="taxonomy_hyperbolic_tree.html" target="_blank" rel="noopener">Abrir árbol en otra pestaña</a>
+      </div>
+      <iframe class="visualization taxonomy-frame" src="taxonomy_hyperbolic_tree.html" title="Árbol hiperbólico interactivo de la familia Papilionidae" loading="lazy"></iframe>
+      <p class="description" style="font-size: 12px; margin-bottom: 0;">Datos: NCBI Taxonomy. Representación: <a href="https://github.com/glouwa/d3-hypertree" target="_blank" rel="noopener">d3-hypertree</a>.</p>
+    </section>
+
+    <section class="project wrap" id="comercio" aria-labelledby="comercio-title">
+      <div class="project-heading">
+        <span class="number" aria-hidden="true">03</span>
+        <h2 id="comercio-title">Conexiones del comercio europeo</h2>
+      </div>
+      <p class="description">Un diagrama de cuerdas presenta las relaciones comerciales entre países europeos. Las conexiones permiten comparar el peso relativo de los intercambios e identificar los principales vínculos entre socios.</p>
+      <div class="project-meta">
+        <p>Diagrama de cuerdas · Comercio europeo · 2025</p>
+        <a href="https://public.flourish.studio/visualisation/30726211/" target="_blank" rel="noopener">Ver en Flourish</a>
+      </div>
+      <iframe class="visualization trade-frame" src="https://flo.uri.sh/visualisation/30726211/embed" title="Diagrama de cuerdas de los intercambios comerciales europeos de 2025" loading="lazy" allowfullscreen></iframe>
+    </section>
+  </main>
+
+  <footer class="wrap">
+    <p>Roger Petit Gozálvez · Visualización de datos · UOC</p>
+    <a href="#contenido">Volver al inicio</a>
+  </footer>
+</body>
+</html>

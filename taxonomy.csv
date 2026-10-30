@@ -1,0 +1,1594 @@
+tax_id,parent_tax_id,rank,scientific_name
+7143,37572,family,Papilionidae
+7145,189315,genus,Papilio
+7146,7145,species,Papilio polyxenes
+42287,189317,genus,Battus
+42288,42287,species,Battus philenor
+42289,7143,subfamily,Papilioninae
+42290,7143,subfamily,Parnassiinae
+42291,213899,genus,Parnassius
+42292,447264,species,Parnassius clodius
+45779,2854840,species,Papilio glaucus
+50442,2854840,species,Papilio troilus
+66420,7145,species,Papilio xuthus
+72260,2854840,species,Papilio rutulus
+76189,447264,species,Parnassius glacialis
+76190,447264,species,Parnassius stubbendorfii
+76193,7145,species,Papilio machaon
+76194,7145,species,Papilio polytes
+76195,7145,species,Papilio helenus
+76196,7145,species,Papilio protenor
+76197,7145,species,Papilio macilentus
+76198,7145,species,Papilio memnon
+76199,7145,species,Papilio bianor
+76200,7145,species,Papilio okinawensis
+76201,7145,species,Papilio maackii
+76202,7145,species,Papilio demoleus
+76204,189314,genus,Graphium
+76205,76204,species,Graphium sarpedon
+76206,76204,species,Graphium doson
+76207,213900,genus,Luehdorfia
+76208,76207,species,Luehdorfia japonica
+76209,76207,species,Luehdorfia puziloi
+76210,213900,genus,Sericinus
+76225,189318,genus,Byasa
+76256,189320,genus,Pachliopta
+76257,76256,species,Pachliopta aristolochiae
+77244,189314,genus,Eurytides
+77245,475296,species,Eurytides marcellus
+77246,2854840,species,Papilio canadensis
+77247,2854840,species,Papilio palamedes
+77248,2854840,species,Papilio scamander
+77249,7145,species,Papilio alexanor
+77250,2854839,species,Papilio anchisiades
+77251,7145,species,Papilio indra
+77252,7145,species,Papilio zelicaon
+77254,7145,species,Papilio hospiton
+77255,7145,species,Papilio multicaudata
+77256,2854839,species,Papilio cresphontes
+77257,2854840,species,Papilio garamas
+77258,2854840,species,Papilio pilumnus
+77259,7145,species,Papilio dardanus
+77260,7145,species,Papilio constantinus
+77261,7145,species,Papilio phorcas
+78396,76193,subspecies,Papilio machaon oregonius
+81069,76207,species,Luehdorfia chinensis
+81070,76207,species,Luehdorfia longicaudata
+81071,76209,subspecies,Luehdorfia puziloi puziloi
+81072,76209,subspecies,Luehdorfia puziloi coreana
+81073,76209,subspecies,Luehdorfia puziloi yessoensis
+81074,76209,subspecies,Luehdorfia puziloi inexpecta
+83486,77259,subspecies,Papilio dardanus meriones
+83487,77259,subspecies,Papilio dardanus tibullus
+85298,189318,genus,Atrophaneura
+85299,76225,species,Byasa alcinous
+93375,213900,genus,Bhutanitis
+93376,93375,species,Bhutanitis mansfieldi
+93377,93375,species,Bhutanitis thaidina
+93715,447236,species,Parnassius smintheus
+95565,42287,species,Battus polydamas
+95566,42287,species,Battus crassus
+95567,189317,genus,Euryades
+95568,95567,species,Euryades corethrus
+95569,189317,genus,Cressida
+95570,95569,species,Cressida cressida
+95571,189318,genus,Parides
+95572,95571,species,Parides montezuma
+95573,95571,species,Parides hahneli
+95574,95571,species,Parides erlaces
+95575,95571,species,Parides neophilus
+95576,189317,genus,Pharmacophagus
+95577,95576,species,Pharmacophagus antenor
+95578,85298,species,Atrophaneura luchti
+95579,85298,species,Atrophaneura priapus
+95580,85298,species,Atrophaneura nox
+95582,76256,species,Pachliopta hector
+95583,76256,species,Pachliopta liris
+95584,76256,species,Pachliopta polydorus
+95585,189320,genus,Losaria
+95586,95585,species,Losaria coon
+95587,189319,genus,Troides
+95588,95587,species,Troides hypolitus
+95589,95587,species,Troides amphrysus
+95590,95587,species,Troides helena
+95591,189319,genus,Ornithoptera
+95592,95591,species,Ornithoptera croesus
+95593,95591,species,Ornithoptera priamus
+95594,95591,species,Ornithoptera victoriae
+95595,95591,species,Ornithoptera goliath
+95596,95591,species,Ornithoptera rothschildi
+95597,95591,species,Ornithoptera tithonus
+95598,95591,species,Ornithoptera paradisea
+110791,157396,species,Iphiclides podalirius
+110792,189314,genus,Meandrusa
+110793,110792,species,Meandrusa payeni
+110794,7145,species,Papilio aegeus
+110795,7145,species,Papilio anactus
+110796,7145,species,Papilio clytia
+110797,7145,species,Papilio delalandei
+110798,7145,species,Papilio laglaizei
+110799,447236,species,Parnassius apollo
+129444,76225,species,Byasa polyeuctes
+129446,95591,species,Ornithoptera chimaera
+129447,95591,species,Ornithoptera aesacus
+129448,95591,species,Ornithoptera alexandrae
+129449,95591,species,Ornithoptera meridionalis
+129450,95593,subspecies,Ornithoptera priamus urvillianus
+129451,189319,genus,Trogonoptera
+129452,129451,species,Trogonoptera brookiana
+129453,95587,species,Troides haliphron
+129454,95587,species,Troides prattorum
+129455,95587,species,Troides staudingeri
+132691,213900,genus,Allancastria
+132692,132691,species,Allancastria cerisyi
+132693,7143,subfamily,Baroniinae
+132694,132693,genus,Baronia
+132695,132694,species,Baronia brevicornis
+132701,76204,species,Graphium agamemnon
+132705,95571,species,Parides photinus
+132706,447236,species,Parnassius phoebus
+132709,213900,genus,Zerynthia
+132710,132709,species,Zerynthia rumina
+157364,76204,species,Graphium agetes
+157365,76204,species,Graphium aristeus
+157367,76204,species,Graphium macareus
+157368,76204,species,Graphium stratiotes
+157369,76204,species,Graphium thule
+157370,76204,species,Graphium xenocles
+157371,76204,species,Graphium antiphates
+157372,76204,species,Graphium evemon
+157373,76204,species,Graphium chiron
+157374,76204,species,Graphium bathycles
+157375,76204,species,Graphium eurypylus
+157377,76204,species,Graphium wallacei
+157378,76204,species,Graphium weiskei
+157379,76204,species,Graphium empedovana
+157380,76204,species,Graphium milon
+157381,76204,species,Graphium cloanthus
+157382,76204,species,Graphium policenes
+157383,76204,species,Graphium glycerion
+157384,76204,species,Graphium incerta
+157385,76204,species,Graphium sichuanicum
+157386,76204,species,Graphium tamerlanus
+157387,76204,species,Graphium eurous
+157388,76204,species,Graphium ridleyanus
+157389,76204,species,Graphium latraillianus
+157390,76204,species,Graphium leonidas
+157391,76204,species,Graphium codrus
+157392,189314,genus,Lamproptera
+157393,157392,species,Lamproptera meges
+157394,157392,species,Lamproptera curius
+157396,189314,genus,Iphiclides
+157459,763938,species,Eurytides helios
+157460,189314,genus,Teinopalpus
+157461,157460,species,Teinopalpus imperialis
+160781,76190,subspecies,Parnassius stubbendorfii typicus
+160782,76190,subspecies,Parnassius stubbendorfii kosterini
+160783,76190,subspecies,Parnassius stubbendorfii standfussi
+160784,76190,subspecies,Parnassius stubbendorfii koreanus
+160785,76190,subspecies,Parnassius stubbendorfii tartarus
+160786,447264,species,Parnassius hoenei
+189314,42289,tribe,Leptocircini
+189315,42289,tribe,Papilionini
+189317,42289,tribe,Troidini
+189318,189317,no rank,Parides group
+189319,189317,no rank,Troides group
+189320,189317,no rank,Pachliopta group
+189321,189318,genus,Panosmia
+193354,95593,subspecies,Ornithoptera priamus poseidon
+193355,95591,species,Ornithoptera euphorion
+199693,129444,subspecies,Byasa polyeuctes termessus
+199695,76225,species,Byasa mencius
+202796,157460,species,Teinopalpus aureus
+202797,475296,species,Eurytides asius
+202798,76204,species,Graphium androcles
+202799,76204,species,Graphium leechi
+202800,76204,species,Graphium pylades
+202801,76204,species,Graphium adamastor
+202802,76204,species,Graphium tynderaeus
+202803,76204,species,Graphium dorcus
+202804,76204,species,Graphium odin
+202805,76204,species,Graphium macleayanum
+212383,447264,species,Parnassius nordmanni
+212384,447264,species,Parnassius ariadne
+212385,447238,species,Parnassius hardwickii
+212386,447264,species,Parnassius eversmanni
+213895,213899,genus,Archon
+213896,213895,species,Archon apollinus
+213897,213899,genus,Hypermnestra
+213898,213897,species,Hypermnestra helios
+213899,42290,tribe,Parnassini
+213900,42290,tribe,Zerynthini
+213901,132692,subspecies,Allancastria cerisyi cerisyi
+213902,213896,subspecies,Archon apollinus apollinus
+213903,213898,subspecies,Hypermnestra helios helios
+213904,76193,subspecies,Papilio machaon hippocrates
+213905,447238,species,Parnassius acco
+213906,213905,subspecies,Parnassius acco gemmifer
+213907,213905,subspecies,Parnassius acco przewalskii
+213908,213905,subspecies,Parnassius acco tulaishani
+213909,447244,species,Parnassius acdestis
+213910,213909,subspecies,Parnassius acdestis lampidius
+213911,447236,species,Parnassius actius
+213912,213911,subspecies,Parnassius actius actius
+213913,447235,species,Parnassius andreji
+213914,110799,subspecies,Parnassius apollo uralensis
+213915,110799,subspecies,Parnassius apollo venaissinus
+213916,447236,species,Parnassius apollonius
+213917,213916,subspecies,Parnassius apollonius apollonius
+213918,447235,species,Parnassius arcticus
+213920,213944,subspecies,Parnassius imperator augustus
+213921,447245,species,Parnassius autocrator
+213922,447235,species,Parnassius boedromius
+213923,213922,subspecies,Parnassius boedromius boedromius
+213924,447236,species,Parnassius bremeri
+213925,213924,subspecies,Parnassius bremeri bremeri
+213926,447244,species,Parnassius cardinal
+213927,447238,species,Parnassius cephalus
+213928,213927,subspecies,Parnassius cephalus elwesi
+213929,447245,species,Parnassius charltonius
+213930,213929,subspecies,Parnassius charltonius romanovi
+213931,447244,species,Parnassius delphius
+213932,213931,subspecies,Parnassius delphius albulus
+213934,447236,species,Parnassius epaphus
+213935,213934,subspecies,Parnassius epaphus tsaidamensis
+213936,212386,subspecies,Parnassius eversmanni eversmanni
+213937,212386,subspecies,Parnassius eversmanni felderi
+213938,76189,subspecies,Parnassius glacialis glacialis
+213939,76189,subspecies,Parnassius glacialis tsingtaua
+213940,447244,species,Parnassius hide
+213941,213940,subspecies,Parnassius hide aksobhya
+213942,447238,species,Parnassius huberi
+213943,447238,species,Parnassius hannyngtoni
+213944,447245,species,Parnassius imperator
+213945,213944,subspecies,Parnassius imperator musageta
+213946,447245,species,Parnassius inopinatus
+213949,447238,species,Parnassius maharaja
+213950,213949,subspecies,Parnassius maharaja labeyriei
+213951,213949,subspecies,Parnassius maharaja maharaja
+213952,447244,species,Parnassius maximinus
+213953,447264,species,Parnassius mnemosyne
+213954,213953,subspecies,Parnassius mnemosyne gigantea
+213955,447236,species,Parnassius nomion
+213956,213955,subspecies,Parnassius nomion nomion
+213957,447264,species,Parnassius orleans
+213958,213957,subspecies,Parnassius orleans groumi
+213959,447244,species,Parnassius patricius
+213960,213959,subspecies,Parnassius patricius xinjiangensis
+213961,132706,subspecies,Parnassius phoebus corybas
+213964,447238,species,Parnassius schultei
+213965,213964,subspecies,Parnassius schultei schultei
+213966,447235,species,Parnassius simo
+213967,213966,subspecies,Parnassius simo zarraensis
+213968,447235,species,Parnassius simonius
+213969,93715,subspecies,Parnassius smintheus smintheus
+213970,447244,species,Parnassius staudingeri
+213971,213970,subspecies,Parnassius staudingeri chitralica
+213972,447244,species,Parnassius stenosemus
+213973,213972,subspecies,Parnassius stenosemus mulkilensis
+213974,447244,species,Parnassius stoliczkanus
+213975,213974,subspecies,Parnassius stoliczkanus stoliczkanus
+213976,447238,species,Parnassius szechenyii
+213977,213976,subspecies,Parnassius szechenyii szechenyii
+213978,447235,species,Parnassius tenedius
+213979,213978,subspecies,Parnassius tenedius britae
+213980,447236,species,Parnassius tianschanicus
+213981,213980,subspecies,Parnassius tianschanicus insignis
+213982,132710,subspecies,Zerynthia rumina rumina
+214007,212386,subspecies,Parnassius eversmanni thor
+214008,447245,species,Parnassius loxias
+214009,214008,subspecies,Parnassius loxias loxias
+214010,447236,species,Parnassius honrathi
+214011,214010,subspecies,Parnassius honrathi honrathi
+221691,76225,species,Byasa impediens
+221692,221691,subspecies,Byasa impediens febanus
+262649,2854839,species,Papilio astyalus
+262650,2854840,species,Papilio birchallii
+262651,7145,species,Papilio demodocus
+262652,7145,species,Papilio epiphorbas
+262653,7145,species,Papilio epycides
+262654,2854839,species,Papilio erostratus
+262655,7145,species,Papilio esperanza
+262656,2854839,species,Papilio hectorides
+262657,7145,species,Papilio hipponous
+262658,7145,species,Papilio nephelus
+262659,7145,species,Papilio nobilis
+262660,7145,species,Papilio oribazus
+262661,7145,species,Papilio paris
+262662,7145,species,Papilio rex
+262663,7145,species,Papilio rumanzovia
+262664,2854839,species,Papilio thoas
+262665,2854839,species,Papilio torquatus
+282390,157396,species,Iphiclides feisthamelii
+284987,7145,species,Papilio erithonioides
+284988,7145,species,Papilio grosesmithi
+284989,7145,species,Papilio morondavana
+284990,7145,species,Papilio lormieri
+290683,76202,subspecies,Papilio demoleus malayanus
+290684,76202,subspecies,Papilio demoleus demoleus
+290686,76202,subspecies,Papilio demoleus sthenelus
+290687,76202,subspecies,Papilio demoleus libanius
+299009,42287,species,Battus belus
+299010,42287,species,Battus polystictus
+299011,95571,species,Parides aeneas
+299012,299011,subspecies,Parides aeneas linoides
+299013,95571,species,Parides agavus
+299014,95571,species,Parides anchises
+299015,95571,species,Parides ascanius
+299016,95571,species,Parides bunichus
+299017,95571,species,Parides chabrias
+299018,95571,species,Parides childrenae
+299019,95571,species,Parides eurimedes
+299020,95571,species,Parides lysander
+299021,95571,species,Parides panthonus
+299022,299021,subspecies,Parides panthonus jaguarae
+299023,299021,subspecies,Parides panthonus lysimachus
+299024,95571,species,Parides proneus
+299025,95571,species,Parides sesostris
+299026,95571,species,Parides tros
+299027,95571,species,Parides vertumnus
+299028,299027,subspecies,Parides vertumnus cutora
+299029,95571,species,Parides zacynthus
+324814,95567,species,Euryades duponchelii
+328261,76199,subspecies,Papilio bianor bianor
+330311,213895,species,Archon apollinaris
+330312,213953,subspecies,Parnassius mnemosyne dinianus
+330313,213953,subspecies,Parnassius mnemosyne parmenides
+330314,213953,subspecies,Parnassius mnemosyne ochraceus
+330315,213953,subspecies,Parnassius mnemosyne pseudonubilosus
+330316,213953,subspecies,Parnassius mnemosyne farsica
+330318,76189,subspecies,Parnassius glacialis mikado
+330319,212384,subspecies,Parnassius ariadne ariadne
+330320,213957,subspecies,Parnassius orleans johanna
+330323,213966,subspecies,Parnassius simo norikae
+330324,213966,subspecies,Parnassius simo kangruensis
+330327,213905,subspecies,Parnassius acco tagalangi
+330328,213976,subspecies,Parnassius szechenyii frivaldszkyi
+330329,213927,subspecies,Parnassius cephalus irene
+330330,213929,subspecies,Parnassius charltonius ella
+330331,213929,subspecies,Parnassius charltonius sakai
+330332,214008,subspecies,Parnassius loxias tashkorensis
+330333,213944,subspecies,Parnassius imperator imperator
+330334,213909,subspecies,Parnassius acdestis limitis
+330335,213974,subspecies,Parnassius stoliczkanus nobuko
+330336,213974,subspecies,Parnassius stoliczkanus zogilaica
+330338,213940,subspecies,Parnassius hide meveli
+330339,213959,subspecies,Parnassius patricius uzyngyrus
+330341,213970,subspecies,Parnassius staudingeri affinis
+330346,213970,subspecies,Parnassius staudingeri kiritshenkoi
+330347,213970,subspecies,Parnassius staudingeri staudingeri
+330348,213934,subspecies,Parnassius epaphus cachemiriensis
+330349,213934,subspecies,Parnassius epaphus dongalaicus
+330350,213934,subspecies,Parnassius epaphus poeta
+330351,213955,subspecies,Parnassius nomion nominulus
+330352,213955,subspecies,Parnassius nomion gabrieli
+330353,447236,species,Parnassius jacquemontii
+330354,330353,subspecies,Parnassius jacquemontii variabilis
+330355,330353,subspecies,Parnassius jacquemontii jacquemontii
+330356,330353,subspecies,Parnassius jacquemontii actinoboloides
+330357,110799,subspecies,Parnassius apollo graslini
+330358,110799,subspecies,Parnassius apollo nevadensis
+330359,110799,subspecies,Parnassius apollo merzbacheri
+330360,110799,subspecies,Parnassius apollo graecus
+330361,132706,subspecies,Parnassius phoebus ruckbeili
+330362,447236,species,Parnassius sacerdos
+330363,132706,subspecies,Parnassius phoebus gazeli
+330364,132706,subspecies,Parnassius phoebus interpositus
+330365,132706,subspecies,Parnassius phoebus golovinus
+330366,132706,subspecies,Parnassius phoebus behrii
+330368,213911,subspecies,Parnassius actius minutus
+330369,213980,subspecies,Parnassius tianschanicus alexander
+330370,132691,species,Allancastria caucasica
+330371,132691,species,Allancastria cretica
+330372,132691,species,Allancastria deyrollei
+330373,132691,species,Allancastria louristana
+330374,132710,subspecies,Zerynthia rumina africana
+330375,132710,subspecies,Zerynthia rumina medesicaste
+330376,132709,species,Zerynthia polyxena
+330377,132709,species,Zerynthia cassandra
+338619,76199,subspecies,Papilio bianor thrasymedes
+338620,76199,subspecies,Papilio bianor kotoensis
+349369,93375,species,Bhutanitis lidderdalii
+349371,93375,species,Bhutanitis pulchristriata
+351161,7145,species,Papilio syfanius
+351162,7145,species,Papilio krishna
+351163,7145,species,Papilio arcturus
+351164,7145,species,Papilio polyctor
+351165,7145,species,Papilio doddsi
+351166,7145,species,Papilio dialis
+354207,351164,subspecies,Papilio polyctor polyctor
+354208,351164,subspecies,Papilio polyctor stockleyi
+354210,351164,subspecies,Papilio polyctor ganesa
+354211,351161,subspecies,Papilio syfanius albosyfanius
+354212,7145,species,Papilio hermeli
+354213,7145,species,Papilio hopponis
+354214,262661,subspecies,Papilio paris paris
+354215,262661,subspecies,Papilio paris nakaharai
+354216,262661,subspecies,Papilio paris hermosanus
+354217,262661,subspecies,Papilio paris tamilana
+354218,7145,species,Papilio karna
+354219,354218,subspecies,Papilio karna karna
+354220,354218,subspecies,Papilio karna irauana
+354221,354218,subspecies,Papilio karna carnatus
+354222,7145,species,Papilio palinurus
+354223,7145,species,Papilio peranthus
+354224,7145,species,Papilio fuscus
+367831,330311,subspecies,Archon apollinaris apollinaris
+367832,330311,subspecies,Archon apollinaris bostanchii
+367833,330311,subspecies,Archon apollinaris drusica
+367834,76207,species,Luehdorfia taibai
+371868,132692,subspecies,Allancastria cerisyi cypria
+371869,132692,subspecies,Allancastria cerisyi ferdinandi
+371870,132692,subspecies,Allancastria cerisyi huberi
+371871,132692,subspecies,Allancastria cerisyi speciosa
+371872,330372,subspecies,Allancastria deyrollei deyrollei
+371873,330372,subspecies,Allancastria deyrollei eisneri
+371874,213896,subspecies,Archon apollinus bellargus
+371875,213898,subspecies,Hypermnestra helios bushirica
+371876,213898,subspecies,Hypermnestra helios hyrcana
+371877,213898,subspecies,Hypermnestra helios maxima
+371878,76209,subspecies,Luehdorfia puziloi lingjiangensis
+371879,330376,subspecies,Zerynthia polyxena albanica
+371880,330376,subspecies,Zerynthia polyxena bosniensis
+371881,330376,subspecies,Zerynthia polyxena bryki
+371882,330376,subspecies,Zerynthia polyxena macedonica
+371883,330376,subspecies,Zerynthia polyxena petri
+371884,132710,subspecies,Zerynthia rumina cantabricae
+371885,132710,subspecies,Zerynthia rumina castalinia
+372445,447236,species,Parnassius mercurius
+372974,213953,subspecies,Parnassius mnemosyne sheljuzhkoi
+372975,213953,subspecies,Parnassius mnemosyne orientalis
+372976,213953,subspecies,Parnassius mnemosyne angorae
+372977,213953,subspecies,Parnassius mnemosyne parvisi
+372978,213970,subspecies,Parnassius staudingeri ruth
+372979,213970,subspecies,Parnassius staudingeri kohibaba
+373131,213944,subspecies,Parnassius imperator gigas
+393871,76225,species,Byasa dasarada
+407149,330376,subspecies,Zerynthia polyxena latevittata
+407151,132710,subspecies,Zerynthia rumina tarrieri
+429102,299016,subspecies,Parides bunichus bunichus
+429103,299016,subspecies,Parides bunichus diodorus
+429104,95571,species,Parides burchellanus
+429105,299021,subspecies,Parides panthonus aglaope
+436465,2630530,species,Bhutanitis sp. EC-018
+436466,2630530,species,Bhutanitis sp. EC-019
+436467,2636018,species,Trogonoptera sp. EC-089
+436468,2636018,species,Trogonoptera sp. EC-090
+436469,2623031,species,Troides sp. EC-005
+436470,2623031,species,Troides sp. EC-006
+436471,2623031,species,Troides sp. EC-038
+436472,2623031,species,Troides sp. EC-040
+436473,2623031,species,Troides sp. EC-043
+436474,2623031,species,Troides sp. EC-044
+436475,2623031,species,Troides sp. EC-045
+436476,2623031,species,Troides sp. EC-059
+436477,2623031,species,Troides sp. EC-060
+436478,2623031,species,Troides sp. EC-061
+436479,2623031,species,Troides sp. EC-062
+436480,2623031,species,Troides sp. EC-063
+436481,2623031,species,Troides sp. EC-071
+436482,2623031,species,Troides sp. EC-077
+436483,2623031,species,Troides sp. EC-084
+436484,2623031,species,Troides sp. EC-085
+447138,93715,subspecies,Parnassius smintheus behrii
+447140,213911,subspecies,Parnassius actius flora
+447141,110799,subspecies,Parnassius apollo apollo
+447142,213916,subspecies,Parnassius apollonius aphrodite
+447143,213922,subspecies,Parnassius boedromius sokolovi
+447144,213929,subspecies,Parnassius charltonius vaporosus
+447145,213931,subspecies,Parnassius delphius namanganus
+447147,330353,subspecies,Parnassius jacquemontii pamirus
+447151,132706,subspecies,Parnassius phoebus ochotkensis
+447154,213966,subspecies,Parnassius simo avinovi
+447155,213968,subspecies,Parnassius simonius nigrificatus
+447156,213968,subspecies,Parnassius simonius simonius
+447165,213980,subspecies,Parnassius tianschanicus chimganus
+447166,132710,subspecies,Zerynthia rumina cassiliana
+447235,42291,subgenus,Sachaia
+447236,42291,subgenus,Parnassius
+447238,42291,subgenus,Tadumia
+447240,447236,species,Parnassius dongalaicus
+447244,42291,subgenus,Koramius
+447245,42291,subgenus,Kailasius
+447264,42291,subgenus,Driopa
+461493,77259,subspecies,Papilio dardanus polytrophus
+475296,77244,subgenus,Mimoides
+475297,1674422,subspecies,Eurytides ilus branchus
+488943,77259,subspecies,Papilio dardanus antinorii
+488944,77259,subspecies,Papilio dardanus bangui
+488945,77259,subspecies,Papilio dardanus byatti
+488946,77259,subspecies,Papilio dardanus cenea
+488947,77259,subspecies,Papilio dardanus dardanus
+488948,77259,subspecies,Papilio dardanus flavicornis
+488949,77259,subspecies,Papilio dardanus humbloti
+488950,77259,subspecies,Papilio dardanus meseres
+488951,77259,subspecies,Papilio dardanus ochracea
+501346,85298,species,Atrophaneura horishana
+501347,157381,subspecies,Graphium cloanthus kuge
+501348,76206,subspecies,Graphium doson postianus
+501349,76205,subspecies,Graphium sarpedon connectens
+501350,76205,subspecies,Graphium sarpedon sarpedon
+501351,76257,subspecies,Pachliopta aristolochiae interposita
+501353,3150744,subspecies,Papilio castor formosanus
+501354,351166,subspecies,Papilio dialis tatsuta
+501355,76195,subspecies,Papilio helenus fortunius
+501356,76195,subspecies,Papilio helenus helenus
+501358,76198,subspecies,Papilio memnon agenor
+501359,76198,subspecies,Papilio memnon heronus
+501360,262658,subspecies,Papilio nephelus chaon
+501361,262658,subspecies,Papilio nephelus chaonulus
+501362,76194,subspecies,Papilio polytes pasikrates
+501363,76194,subspecies,Papilio polytes polytes
+501364,76196,subspecies,Papilio protenor amaura
+501365,76196,subspecies,Papilio protenor euprotenor
+501366,7145,species,Papilio thaiwanus
+501367,66420,subspecies,Papilio xuthus koxingus
+501368,501395,subspecies,Graphium nomius hainana
+501369,95587,species,Troides aeacus
+501370,501369,subspecies,Troides aeacus kaguya
+501395,76204,species,Graphium nomius
+501396,7145,species,Papilio maraho
+501397,262653,subspecies,Papilio epycides melanoleucus
+501398,7145,species,Papilio agestor
+501399,501398,subspecies,Papilio agestor matsumurae
+501402,157387,subspecies,Graphium eurous asakurae
+501403,157387,subspecies,Graphium eurous eurous
+501404,76204,species,Graphium mandarinus
+501405,76204,species,Graphium mullah
+501406,501405,subspecies,Graphium mullah chungianus
+534389,7145,species,Papilio elwesi
+539211,447245,species,Parnassius davydovi
+539656,213976,subspecies,Parnassius szechenyii amdensis
+539657,213976,subspecies,Parnassius szechenyii arnoldiana
+539658,213976,subspecies,Parnassius szechenyii choui
+539659,213976,subspecies,Parnassius szechenyii etsujii
+539660,213976,subspecies,Parnassius szechenyii elvi
+539661,213976,subspecies,Parnassius szechenyii eros
+539662,213976,subspecies,Parnassius szechenyii evacaki
+539663,213976,subspecies,Parnassius szechenyii fenzeli
+539664,213976,subspecies,Parnassius szechenyii germanae
+539665,213976,subspecies,Parnassius szechenyii incognitus
+539666,213976,subspecies,Parnassius szechenyii jeanclaudei
+539667,213976,subspecies,Parnassius szechenyii junco
+539668,213976,subspecies,Parnassius szechenyii kansuensis
+539669,213976,subspecies,Parnassius szechenyii kassarovi
+539670,213976,subspecies,Parnassius szechenyii katares
+539671,213976,subspecies,Parnassius szechenyii lethe
+539672,213976,subspecies,Parnassius szechenyii luminosa
+539673,213976,subspecies,Parnassius szechenyii ragaraja
+539674,213976,subspecies,Parnassius szechenyii sadayukii
+539675,132695,subspecies,Baronia brevicornis rufodiscalis
+539719,213896,subspecies,Archon apollinus amasina
+539720,213896,subspecies,Archon apollinus annii
+539721,213896,subspecies,Archon apollinus armeniacus
+539722,213896,subspecies,Archon apollinus bellarchus
+539724,213896,subspecies,Archon apollinus curiosa
+539725,213896,subspecies,Archon apollinus drusica
+539726,213896,subspecies,Archon apollinus flavomaculata
+539727,213896,subspecies,Archon apollinus forsteri
+539728,213896,subspecies,Archon apollinus lichyi
+539729,213896,subspecies,Archon apollinus mardina
+539730,213896,subspecies,Archon apollinus nikodemusi
+539731,213896,subspecies,Archon apollinus ochreomaculata
+539732,213896,subspecies,Archon apollinus pythius
+539733,213896,subspecies,Archon apollinus rubra
+539734,213896,subspecies,Archon apollinus thia
+539735,213896,subspecies,Archon apollinus thracica
+539736,213896,subspecies,Archon apollinus wageneri
+539737,213896,subspecies,Archon apollinus wyatti
+539743,213931,subspecies,Parnassius delphius abramovi
+539744,213931,subspecies,Parnassius delphius affinis
+539745,213931,subspecies,Parnassius delphius alba
+539746,213931,subspecies,Parnassius delphius albocellata
+539747,213931,subspecies,Parnassius delphius aurelia
+539748,213931,subspecies,Parnassius delphius barteli
+539749,213931,subspecies,Parnassius delphius brunneoocellata
+539750,213931,subspecies,Parnassius delphius caeca
+539751,213931,subspecies,Parnassius delphius costallsextincta
+539752,213931,subspecies,Parnassius delphius cretatus
+539753,213931,subspecies,Parnassius delphius discocircumcincta
+539754,213931,subspecies,Parnassius delphius divinus
+539755,213931,subspecies,Parnassius delphius dolabella
+539756,213931,subspecies,Parnassius delphius elegans
+539757,213931,subspecies,Parnassius delphius eva
+539758,213931,subspecies,Parnassius delphius fermata
+539759,213931,subspecies,Parnassius delphius florenciae
+539760,213931,subspecies,Parnassius delphius gracilis
+539761,213931,subspecies,Parnassius delphius hamiensis
+539762,213931,subspecies,Parnassius delphius hodja
+539763,213931,subspecies,Parnassius delphius imitator
+539765,213931,subspecies,Parnassius delphius infumata
+539766,213931,subspecies,Parnassius delphius interjectus
+539767,213931,subspecies,Parnassius delphius intermedia
+539768,213931,subspecies,Parnassius delphius julduscia
+539769,213931,subspecies,Parnassius delphius juldussicus
+539770,213931,subspecies,Parnassius delphius kafir
+539771,213931,subspecies,Parnassius delphius kasakstana
+539772,213931,subspecies,Parnassius delphius kohibaba
+539773,213931,subspecies,Parnassius delphius kumaonensis
+539774,213931,subspecies,Parnassius delphius lampidius
+539775,213931,subspecies,Parnassius delphius lathonius
+539776,213931,subspecies,Parnassius delphius latonius
+539777,213931,subspecies,Parnassius delphius macdonaldi
+539778,213931,subspecies,Parnassius delphius mamaievi
+539779,213931,subspecies,Parnassius delphius marginata
+539780,213931,subspecies,Parnassius delphius mephisto
+539781,213931,subspecies,Parnassius delphius menander
+539782,213931,subspecies,Parnassius delphius micha
+539783,213931,subspecies,Parnassius delphius mogul
+539784,213931,subspecies,Parnassius delphius parangensis
+539785,213931,subspecies,Parnassius delphius nicevillei
+539786,213931,subspecies,Parnassius delphius noxinfernus
+539787,213931,subspecies,Parnassius delphius obscura
+539788,213931,subspecies,Parnassius delphius ornata
+539789,213931,subspecies,Parnassius delphius philippsi
+539790,213931,subspecies,Parnassius delphius pontifex
+539791,213931,subspecies,Parnassius delphius primotertiopicta
+539792,213931,subspecies,Parnassius delphius pulchra
+539793,213931,subspecies,Parnassius delphius pura
+539794,213931,subspecies,Parnassius delphius quadripicta
+539795,213931,subspecies,Parnassius delphius ratteri
+539796,213931,subspecies,Parnassius delphius rubroampliusanalis
+539797,213931,subspecies,Parnassius delphius ruth
+539798,213931,subspecies,Parnassius delphius scotina
+539799,213931,subspecies,Parnassius delphius semicaecus
+539800,213931,subspecies,Parnassius delphius shigarensis
+539801,213931,subspecies,Parnassius delphius sobolevskyi
+539802,213931,subspecies,Parnassius delphius spitiensis
+539803,213931,subspecies,Parnassius delphius thomas
+539804,213931,subspecies,Parnassius delphius totiextincta
+539805,213931,subspecies,Parnassius delphius transiens
+539806,213931,subspecies,Parnassius delphius typica
+539807,213931,subspecies,Parnassius delphius unaria
+539808,213931,subspecies,Parnassius delphius valentinae
+539809,213931,subspecies,Parnassius delphius whitei
+539810,213931,subspecies,Parnassius delphius zanskarica
+539811,213931,subspecies,Parnassius delphius zogilaica
+551220,7145,species,Papilio polymnestor
+596630,213959,subspecies,Parnassius patricius lukhtanovi
+596631,132706,subspecies,Parnassius phoebus phoebus
+596632,132706,subspecies,Parnassius phoebus sauricus
+596633,213968,subspecies,Parnassius simonius taldicus
+596634,213970,subspecies,Parnassius staudingeri hissaricus
+674871,76204,species,Graphium cyrnus
+676904,76204,species,Graphium endochus
+676905,76204,species,Graphium evombar
+691762,76193,subspecies,Papilio machaon aliaska
+691763,76193,subspecies,Papilio machaon dodi
+691764,76193,subspecies,Papilio machaon pikei
+705694,2646704,species,Eurytides (Mimoides) sp. clusoculisDHJ01
+705695,2646704,species,Eurytides (Mimoides) sp. clusoculisDHJ02
+705696,2646704,species,Eurytides (Mimoides) sp. clusoculisDHJ03
+705715,2644101,species,Papilio sp. laetitiaDHJ01
+705716,2644101,species,Papilio sp. laetitiaDHJ02
+705815,189314,genus,Protographium
+705816,1896070,subspecies,Eurytides protesilaus dariensis
+709175,95571,species,Parides erithalion
+709176,709175,subspecies,Parides erithalion sadyattes
+709177,95571,species,Parides iphidamas
+709179,475296,species,Eurytides dioxippus
+709180,709179,subspecies,Eurytides dioxippus lacandones
+709181,475296,species,Eurytides epidaus
+709182,475296,species,Eurytides philolaus
+709183,475296,species,Eurytides thyastes
+709184,709183,subspecies,Eurytides thyastes panamensis
+709215,3419087,species,Eurytides orabilis
+709220,7146,subspecies,Papilio polyxenes stabilis
+709221,95571,species,Parides panares
+709222,709221,subspecies,Parides panares lycimenes
+709223,299019,subspecies,Parides eurimedes mylotes
+709224,299025,subspecies,Parides sesostris zestos
+709226,262664,subspecies,Papilio thoas autocles
+709227,2854839,species,Papilio androgeus
+709228,709227,subspecies,Papilio androgeus epidaurus
+709229,77250,subspecies,Papilio anchisiades idaeus
+709230,2854839,species,Papilio pallas
+709231,262665,subspecies,Papilio torquatus tolmides
+709233,262650,subspecies,Papilio birchallii bryki
+763935,3419087,species,Eurytides serville
+763936,95585,species,Losaria neptunus
+763937,110792,species,Meandrusa sciron
+763938,77244,subgenus,Protesilaus
+763939,763938,species,Eurytides glaucolaus
+866282,76204,species,Graphium chironides
+866283,76257,subspecies,Pachliopta aristolochiae adaeus
+866284,7145,species,Papilio paradoxa
+866285,7145,species,Papilio slateri
+869252,212384,subspecies,Parnassius ariadne clarus
+875393,501369,subspecies,Troides aeacus formosanus
+886378,110799,subspecies,Parnassius apollo frankenbergeri
+929448,95587,species,Troides minos
+929967,76205,subspecies,Graphium sarpedon nipponus
+929989,76196,subspecies,Papilio protenor demetrius
+987428,110799,subspecies,Parnassius apollo bartholomaeus
+988053,110799,subspecies,Parnassius apollo adonais
+988054,110799,subspecies,Parnassius apollo melliculus
+996768,7145,species,Papilio albinus
+996769,7145,species,Papilio amynthor
+996770,7145,species,Papilio bridgei
+996771,996770,subspecies,Papilio bridgei hecataeus
+996772,7145,species,Papilio deiphobus
+996773,7145,species,Papilio demolion
+996774,7145,species,Papilio forbesi
+996775,7145,species,Papilio gambrisius
+996776,996775,subspecies,Papilio gambrisius gambrisius
+996777,7145,species,Papilio gigon
+996778,76195,subspecies,Papilio helenus enganius
+996779,7145,species,Papilio heringi
+996780,7145,species,Papilio lorquinianus
+996781,7145,species,Papilio mahadeva
+996782,7145,species,Papilio montrouzieri
+996783,7145,species,Papilio noblei
+996784,7145,species,Papilio oenomaus
+996785,7145,species,Papilio pitmani
+996786,7145,species,Papilio tydeus
+996787,996786,subspecies,Papilio tydeus hanafusai
+996788,7145,species,Papilio ulysses
+996789,996775,subspecies,Papilio gambrisius ssp. FLC-2011
+996790,7145,species,Papilio oenomanus
+996791,996790,subspecies,Papilio oenomanus ssp. FLC-2011
+1084508,393871,subspecies,Byasa dasarada melanura
+1084511,110796,subspecies,Papilio clytia clytia
+1084512,110796,subspecies,Papilio clytia panope
+1084513,110796,subspecies,Papilio clytia lacedemon
+1088851,2854840,species,Papilio appalachiensis
+1089324,7145,species,Papilio aff. appalachiensis/glaucus KK-2011
+1089325,7145,species,Papilio aff. canadensis/glaucus 'late flight'
+1100054,7146,subspecies,Papilio polyxenes coloro
+1108655,262664,subspecies,Papilio thoas nealces
+1108658,299018,subspecies,Parides childrenae childrenae
+1108659,709175,subspecies,Parides erithalion smalli
+1108660,299019,subspecies,Parides eurimedes mycale
+1108661,299025,subspecies,Parides sesostris tarquinius
+1110604,7145,species,Papilio dardanus x Papilio phorcas
+1110720,475296,species,Eurytides pausanias
+1113303,76257,subspecies,Pachliopta aristolochiae asteris
+1113393,354222,subspecies,Papilio palinurus palinurus
+1159113,2854840,species,Papilio victorinus
+1159117,2640042,species,Battus sp. ingenuus
+1159124,2635297,species,Parides sp. MHMYK1077-11
+1173051,7145,species,Papilio zalmoxis
+1239066,7145,species,Papilio bootes
+1239067,7145,species,Papilio osmana
+1239068,7145,species,Papilio veiovis
+1274816,354218,subspecies,Papilio karna discordia
+1274817,76201,subspecies,Papilio maackii tutanus
+1274819,76199,subspecies,Papilio bianor gladiator
+1274820,76199,subspecies,Papilio bianor pinratanai
+1274821,76199,subspecies,Papilio bianor significans
+1274822,76199,subspecies,Papilio bianor stockleyi
+1274823,7145,species,Papilio blumei
+1274824,1274823,subspecies,Papilio blumei fruhstorferi
+1274825,7145,species,Papilio crino
+1274826,7145,species,Papilio dehaanii
+1274827,1274826,subspecies,Papilio dehaanii amamiensis
+1274828,1274826,subspecies,Papilio dehaanii hachijonis
+1274829,1274826,subspecies,Papilio dehaanii ryukyuensis
+1274830,1274826,subspecies,Papilio dehaanii tokaraensis
+1274831,351162,subspecies,Papilio krishna charlesi
+1274832,351162,subspecies,Papilio krishna mayumiae
+1274833,351162,subspecies,Papilio krishna thawgawa
+1274834,996780,subspecies,Papilio lorquinianus albertisi
+1274835,996780,subspecies,Papilio lorquinianus gelia
+1274836,996780,subspecies,Papilio lorquinianus ochoco
+1274837,7145,species,Papilio neumoegeni
+1274838,354222,subspecies,Papilio palinurus daedalus
+1274839,354222,subspecies,Papilio palinurus vega
+1274840,262661,subspecies,Papilio paris battacorum
+1274841,262661,subspecies,Papilio paris detanii
+1274842,262661,subspecies,Papilio paris gedeensis
+1274843,262661,subspecies,Papilio paris tenggerensis
+1274844,354223,subspecies,Papilio peranthus adamantius
+1274845,354223,subspecies,Papilio peranthus baweanus
+1274846,354223,subspecies,Papilio peranthus kransi
+1274847,354223,subspecies,Papilio peranthus transiens
+1274848,7145,species,Papilio pericles
+1274849,996788,subspecies,Papilio ulysses ampelius
+1274850,996788,subspecies,Papilio ulysses autolycus
+1274851,996788,subspecies,Papilio ulysses dohertius
+1274852,996788,subspecies,Papilio ulysses joesa
+1274853,996788,subspecies,Papilio ulysses morotaicus
+1274854,996788,subspecies,Papilio ulysses nigerrimus
+1274855,996788,subspecies,Papilio ulysses orsippus
+1274856,996788,subspecies,Papilio ulysses oxyartes
+1274857,996788,subspecies,Papilio ulysses telegonus
+1274858,351163,subspecies,Papilio arcturus arcturus
+1274859,1274823,subspecies,Papilio blumei blumei
+1274860,1274826,subspecies,Papilio dehaani dehaani
+1274861,351166,subspecies,Papilio dialis dialis
+1274862,996780,subspecies,Papilio lorquinianus lorquinianus
+1274863,354223,subspecies,Papilio peranthus peranthus
+1274864,996788,subspecies,Papilio ulysses ulysses
+1285186,996780,subspecies,Papilio lorquinianus esmeae
+1285187,262661,subspecies,Papilio paris dempo
+1285188,996788,subspecies,Papilio ulysses reikoae
+1285317,76199,subspecies,Papilio bianor ssp. CBGPFLC_00004
+1285318,351162,subspecies,Papilio krishna ssp. CBGPFLC_00055
+1285319,351162,subspecies,Papilio krishna ssp. CBGPFLC_00056
+1285320,996780,subspecies,Papilio lorquinianus ssp. CBGPFLC_00060
+1285321,996780,subspecies,Papilio lorquinianus ssp. CBGPFLC_00061
+1285322,76201,subspecies,Papilio maackii ssp. CBGPFLC_00067
+1285323,76201,subspecies,Papilio maackii ssp. CBGPFLC_00068
+1285324,76201,subspecies,Papilio maackii ssp. CBGPFLC_00069
+1285325,351161,subspecies,Papilio syfanius ssp. CBGPFLC_00142
+1285326,351161,subspecies,Papilio syfanius ssp. CBGPFLC_00143
+1337295,299016,subspecies,Parides bunichus chamissonia
+1337321,2854840,species,Papilio zagreus
+1337322,1337321,subspecies,Papilio zagreus ascolius
+1337323,2854840,species,Papilio neyi
+1365838,132701,subspecies,Graphium agamemnon agamemnon
+1365839,157364,subspecies,Graphium agetes iponus
+1365840,157371,subspecies,Graphium antiphates itamputi
+1365841,157365,subspecies,Graphium aristeus hermocrates
+1365842,76204,species,Graphium arycles
+1365843,157374,subspecies,Graphium bathycles bathycloides
+1365844,76204,species,Graphium delessertii
+1365845,1365844,subspecies,Graphium delessertii delessertii
+1365846,76206,subspecies,Graphium doson evemonides
+1365847,157372,subspecies,Graphium evemon eventus
+1365848,76204,species,Graphium ramaceus
+1365849,1365848,subspecies,Graphium ramaceus pendleburyi
+1365850,157393,subspecies,Lamproptera meges virescens
+1375868,7145,species,Papilio ambrax
+1376682,705815,species,Protographium leosthenes
+1377626,95587,species,Troides euphorion
+1377905,76204,species,Graphium macfarlanei
+1401853,7145,species,Papilio iswara
+1401930,1401853,subspecies,Papilio iswara iswara
+1402294,95589,subspecies,Troides amphrysus ruficollis
+1402369,262658,subspecies,Papilio nephelus sunatus
+1402370,866284,subspecies,Papilio paradoxa aenigma
+1402371,76194,subspecies,Papilio polytes romulus
+1402372,7145,species,Papilio prexaspes
+1402373,866285,subspecies,Papilio slateri perses
+1402396,95590,subspecies,Troides helena cerberus
+1436188,447264,species,Parnassius sp. n. AAF-2013
+1454956,7145,species,Papilio dravidarum
+1489310,76206,subspecies,Graphium doson perillus
+1491811,7145,species,Papilio aristophontes
+1491812,7145,species,Papilio hesperus
+1491813,7145,species,Papilio mangoura
+1491814,7145,species,Papilio nireus
+1491815,7145,species,Papilio phorbanta
+1491816,2644101,species,Papilio sp. MJT-2014
+1495676,76206,subspecies,Graphium doson albidum
+1505761,7145,species,Papilio zelicaon x Papilio machaon
+1505870,7145,species,Papilio brevicauda
+1505871,1505870,subspecies,Papilio brevicauda brevicauda
+1505872,1505870,subspecies,Papilio brevicauda gaspeensis
+1505873,77251,subspecies,Papilio indra indra
+1505874,77251,subspecies,Papilio indra kaibabensis
+1505875,7145,species,Papilio joanae
+1505876,76193,subspecies,Papilio machaon bairdii
+1505877,76193,subspecies,Papilio machaon gorganus
+1505878,7146,subspecies,Papilio polyxenes americus
+1505879,7146,subspecies,Papilio polyxenes asterius
+1507443,76193,subspecies,Papilio machaon kahli
+1527529,2854839,species,Papilio garleppi
+1527530,7145,species,Papilio isidorus
+1527555,77250,subspecies,Papilio anchisiades anchisiades
+1527556,77250,subspecies,Papilio anchisiades capys
+1527557,2854839,species,Papilio andraemon
+1527558,709227,subspecies,Papilio androgeus laodocus
+1527559,2854839,species,Papilio aristodemus
+1527560,2854839,species,Papilio aristor
+1527561,262649,subspecies,Papilio astyalus astyalus
+1527562,7145,species,Papilio chiansiades
+1527563,7145,species,Papilio epenetus
+1527564,1527529,subspecies,Papilio garleppi interruptus
+1527565,7145,species,Papilio hyppason
+1527566,1527530,subspecies,Papilio isidorus pacificus
+1527567,2854839,species,Papilio lamarchei
+1527568,2854839,species,Papilio machaonides
+1527569,2854839,species,Papilio ornythion
+1527570,2854839,species,Papilio pelaus
+1527571,7145,species,Papilio thersites
+1527572,262664,subspecies,Papilio thoas cinyras
+1531491,76204,species,Graphium meyeri
+1531492,157375,subspecies,Graphium eurypylus acheron
+1531493,157375,subspecies,Graphium eurypylus pamphylus
+1544759,213929,subspecies,Parnassius charltonius charltonius
+1544760,213929,subspecies,Parnassius charltonius anjuta
+1544761,213929,subspecies,Parnassius charltonius ljudmilae
+1544762,213929,subspecies,Parnassius charltonius platon
+1546261,213929,subspecies,Parnassius charltonius aenigma
+1546262,213929,subspecies,Parnassius charltonius alraschid
+1546263,213929,subspecies,Parnassius charltonius amabilis
+1546264,213929,subspecies,Parnassius charltonius deckerti
+1546265,213929,subspecies,Parnassius charltonius ducalis
+1546266,213929,subspecies,Parnassius charltonius eisnerianus
+1546267,213929,subspecies,Parnassius charltonius eugenia
+1546268,213929,subspecies,Parnassius charltonius flaugeri
+1546269,213929,subspecies,Parnassius charltonius kabiri
+1546270,213929,subspecies,Parnassius charltonius marusya
+1546271,213929,subspecies,Parnassius charltonius sochivkoi
+1546272,213929,subspecies,Parnassius charltonius varvara
+1546273,213929,subspecies,Parnassius charltonius voigti
+1579669,77250,subspecies,Papilio anchisiades philastrius
+1579670,1527557,subspecies,Papilio andraemon andraemon
+1579671,1527557,subspecies,Papilio andraemon bonhotei
+1579672,1527557,subspecies,Papilio andraemon tailori
+1579673,709227,subspecies,Papilio androgeus androgeus
+1579674,709227,subspecies,Papilio androgeus reyesorum
+1579675,1527559,subspecies,Papilio aristodemus aristodemus
+1579676,1527559,subspecies,Papilio aristodemus temenes
+1579677,262649,subspecies,Papilio astyalus hippomedon
+1579678,262649,subspecies,Papilio astyalus phanias
+1579680,2854839,species,Papilio caiguanabus
+1579681,262654,subspecies,Papilio erostratus erostratus
+1579682,1527529,subspecies,Papilio garleppi lecerfi
+1579683,2854839,species,Papilio himeros
+1579684,1579683,subspecies,Papilio himeros himeros
+1579685,2854839,species,Papilio homothoas
+1579686,2854839,species,Papilio melonius
+1579689,2854839,species,Papilio oxynius
+1579690,2854839,species,Papilio paeon
+1579691,1579690,subspecies,Papilio paeon escomeli
+1579692,1579690,subspecies,Papilio paeon paeon
+1579695,1527570,subspecies,Papilio pelaus pelaus
+1579697,2854839,species,Papilio rogeri
+1579698,1579697,subspecies,Papilio rogeri pharnaces
+1579699,2854839,species,Papilio rumiko
+1579700,262664,subspecies,Papilio thoas brasiliensis
+1579701,262664,subspecies,Papilio thoas thoantiades
+1579703,262665,subspecies,Papilio torquatus tolus
+1579704,262665,subspecies,Papilio torquatus torquatus
+1579709,2854840,species,Papilio cacicus
+1579710,1579709,subspecies,Papilio cacicus nesrinae
+1579711,2854840,species,Papilio homerus
+1579712,2854840,species,Papilio menatius
+1579713,1579712,subspecies,Papilio menatius lenaeus
+1579715,77255,subspecies,Papilio multicaudata grandiosus
+1579716,77255,subspecies,Papilio multicaudata multicaudata
+1579717,77255,subspecies,Papilio multicaudata pusillus
+1579718,77247,subspecies,Papilio palamedes leontis
+1579719,77247,subspecies,Papilio palamedes palamedes
+1579720,77248,subspecies,Papilio scamander scamander
+1579721,50442,subspecies,Papilio troilus fakahatcheensis
+1579723,2854840,species,Papilio warscewiczii
+1579724,1579723,subspecies,Papilio warscewiczii mercedes
+1579725,1337321,subspecies,Papilio zagreus chrysoxanthus
+1579726,2854839,species,Papilio anchicayaensis
+1579750,709230,subspecies,Papilio pallas bajaensis
+1579751,1579690,subspecies,Papilio paeon thrason
+1579756,2854839,species,Papilio oviedo
+1579758,45779,subspecies,Papilio glaucus garcia
+1579759,1337321,subspecies,Papilio zagreus chrysomelus
+1579760,1579712,subspecies,Papilio menatius morelius
+1579761,45779,subspecies,Papilio glaucus alexiares
+1579763,1337321,subspecies,Papilio zagreus bachus
+1671379,76193,subspecies,Papilio machaon sikkimensis
+1674422,475296,species,Eurytides ilus
+1678306,76210,species,Sericinus montela
+1729667,76193,subspecies,Papilio machaon hudsonianus
+1736626,7145,species,Papilio liomedon
+1758013,95587,species,Troides criton
+1758014,95587,species,Troides cuneifer
+1758016,95587,species,Troides magellanus
+1758017,95587,species,Troides oblongomaculatus
+1758018,95587,species,Troides plato
+1758019,95587,species,Troides rhadamantus
+1758020,95587,species,Troides vandepolli
+1758045,95592,subspecies,Ornithoptera croesus lydius
+1758046,95590,subspecies,Troides helena hephaestus
+1758047,95590,subspecies,Troides helena sagittatus
+1758048,1758013,subspecies,Troides criton critonides
+1758049,129455,subspecies,Troides staudingeri heptanonius
+1758050,1758014,subspecies,Troides cuneifer sumatranus
+1758051,95597,subspecies,Ornithoptera tithonus misresiana
+1758052,129453,subspecies,Troides haliphron pallens
+1758053,129455,subspecies,Troides staudingeri iris
+1758054,95595,subspecies,Ornithoptera goliath supremus
+1758055,129453,subspecies,Troides haliphron socrates
+1758056,1758017,subspecies,Troides oblongomaculatus papuensis
+1758057,95595,subspecies,Ornithoptera goliath samson
+1758058,501369,subspecies,Troides aeacus szechwanus
+1758059,95588,subspecies,Troides hypolitus cellularis
+1758060,95590,subspecies,Troides helena antileuca
+1758061,95588,subspecies,Troides hypolitus antiopa
+1758062,129453,subspecies,Troides haliphron purabu
+1758063,95589,subspecies,Troides amphrysus amphrysus
+1758064,1758013,subspecies,Troides criton criton
+1758065,1758014,subspecies,Troides cuneifer cuneifer
+1758066,129453,subspecies,Troides haliphron haliphron
+1758067,95590,subspecies,Troides helena helena
+1758068,95588,subspecies,Troides hypolitus sangirensis
+1758069,1758016,subspecies,Troides magellanus magellanus
+1758070,1758017,subspecies,Troides oblongomaculatus oblongomaculatus
+1758071,1758018,subspecies,Troides plato plato
+1758072,1758020,subspecies,Troides vandepolli vandepolli
+1758241,95590,subspecies,Troides helena ssp. Tr8-06a
+1758242,95590,subspecies,Troides helena ssp. Tr8-06b
+1758243,1758017,subspecies,Troides oblongomaculatus aff. oblongomaculatus Tr8-05a
+1758246,1758017,subspecies,Troides oblongomaculatus aff. papuensis Tr8-09a
+1758247,1758017,subspecies,Troides oblongomaculatus aff. papuensis Tr8-09b
+1759326,213929,subspecies,Parnassius charltonius safronovi
+1759327,213929,subspecies,Parnassius charltonius mistericus
+1769915,213929,subspecies,Parnassius charltonius ssp. 1 SKK-2015
+1820041,77252,subspecies,Papilio zelicaon nitra
+1820042,77252,subspecies,Papilio zelicaon zelicaon x Papilio zelicaon nitra
+1820043,77252,subspecies,Papilio zelicaon zelicaon
+1870157,213953,subspecies,Parnassius mnemosyne korbi
+1896066,475296,species,Eurytides leucaspis
+1896067,763938,species,Eurytides molops
+1896068,1896067,subspecies,Eurytides molops hetaerius
+1896069,1896067,subspecies,Eurytides molops molops
+1896070,763938,species,Eurytides protesilaus
+1896071,763938,species,Eurytides telesilaus
+1896316,1896071,subspecies,Eurytides telesilaus telesilaus
+1898587,85298,species,Atrophaneura aidoneus
+1898588,85298,species,Atrophaneura semperi
+1898589,76204,species,Graphium ucalegonides
+1898590,85298,species,Atrophaneura jophon
+1898591,76204,species,Graphium ucalegon
+1914936,7145,species,Papilio moerneri
+1933058,447244,species,Parnassius jacobsoni
+1939652,447244,species,Parnassius infernalis
+1939653,1939652,subspecies,Parnassius infernalis darvasicus
+1939654,1939652,subspecies,Parnassius infernalis inaccessibilis
+1939655,1939652,subspecies,Parnassius infernalis dunkeldykus
+1939656,1939652,subspecies,Parnassius infernalis kiritshenkoi
+1939657,1939652,subspecies,Parnassius infernalis mustagata
+1939658,1939652,subspecies,Parnassius infernalis illustris
+1939659,1939652,subspecies,Parnassius infernalis infernalis
+1964188,76256,species,Pachliopta pandiyana
+1968061,7145,species,Papilio acheron
+1968062,110794,subspecies,Papilio aegeus aegeus
+1968063,996768,subspecies,Papilio albinus albinus
+1968064,7145,species,Papilio alcmenor
+1968065,1968064,subspecies,Papilio alcmenor alcmenor
+1968066,1375868,subspecies,Papilio ambrax ambrax
+1968067,7145,species,Papilio antonio
+1968068,1968067,subspecies,Papilio antonio antonio
+1968069,7145,species,Papilio ascalaphus
+1968070,1968069,subspecies,Papilio ascalaphus ascalaphus
+1968071,996770,subspecies,Papilio bridgei bridgei
+1968072,3150744,subspecies,Papilio castor castor
+1968073,996772,subspecies,Papilio deiphobus deiphobus
+1968074,996773,subspecies,Papilio demolion demolion
+1968075,7145,species,Papilio diophantus
+1968076,7145,species,Papilio euchenor
+1968077,1968076,subspecies,Papilio euchenor euchenor
+1968078,354224,subspecies,Papilio fuscus fuscus
+1968079,996777,subspecies,Papilio gigon gigon
+1968080,7145,species,Papilio godeffroyi
+1968081,7145,species,Papilio iswaroides
+1968082,1968081,subspecies,Papilio iswaroides iswaroides
+1968083,7145,species,Papilio jordani
+1968084,76197,subspecies,Papilio macilentus macilentus
+1968085,76198,subspecies,Papilio memnon memnon
+1968086,996783,subspecies,Papilio noblei noblei
+1968087,996784,subspecies,Papilio oenomaus subfasciatus
+1968088,7145,species,Papilio phestus
+1968089,1968088,subspecies,Papilio phestus phestus
+1968090,1402372,subspecies,Papilio prexaspes prexaspes
+1968091,7145,species,Papilio sataspes
+1968092,1968091,subspecies,Papilio sataspes sataspes
+1968093,7145,species,Papilio schmeltzi
+1968094,996786,subspecies,Papilio tydeus tydeus
+1968095,7145,species,Papilio weymeri
+1968096,1968095,subspecies,Papilio weymeri weymeri
+1968097,7145,species,Papilio woodfordi
+1968098,1968097,subspecies,Papilio woodford woodfordii
+1968129,7145,species,Papilio inopinatus
+1968130,110794,subspecies,Papilio aegeus keianus
+1968131,110794,subspecies,Papilio aegeus ormenus
+1968132,110794,subspecies,Papilio aegeus othello
+1968133,76198,subspecies,Papilio memnon thunbergi
+1968134,1968064,subspecies,Papilio alcmenor irene
+1968135,1968064,subspecies,Papilio alcmenor platenius
+1968136,7145,species,Papilio alphenor
+1968137,1968136,subspecies,Papilio alphenor alphenor
+1968138,76194,subspecies,Papilio polytes nicanor
+1968139,76194,subspecies,Papilio polytes polycritos
+1968140,1375868,subspecies,Papilio ambrax epirus
+1968141,1968069,subspecies,Papilio ascalaphus ascalon
+1968142,76195,subspecies,Papilio helenus biseriatus
+1968143,1239066,subspecies,Papilio bootes dealbatus
+1968145,1239066,subspecies,Papilio bootes xamnuensis
+1968146,354224,subspecies,Papilio fuscus canopinus
+1968147,354224,subspecies,Papilio fuscus canopus
+1968148,354224,subspecies,Papilio fuscus hypsiclides
+1968149,354224,subspecies,Papilio fuscus umbrosus
+1968150,354224,subspecies,Papilio fuscus capaneus
+1968151,354224,subspecies,Papilio fuscus hasterti
+1968152,354224,subspecies,Papilio fuscus indicatus
+1968153,354224,subspecies,Papilio fuscus rotalita
+1968154,354224,subspecies,Papilio fuscus xenophilus
+1968155,3150744,subspecies,Papilio castor hamela
+1968156,3150744,subspecies,Papilio castor kanlanpanus
+1968157,996781,subspecies,Papilio mahadeva mehala
+1968158,262658,subspecies,Papilio nephelus annulus
+1968159,354224,subspecies,Papilio fuscus cilix
+1968160,354224,subspecies,Papilio fuscus lamponius
+1968161,76195,subspecies,Papilio helenus daksha
+1968162,996772,subspecies,Papilio deiphobus deiphontes
+1968163,1968076,subspecies,Papilio euchenor depilis
+1968164,1968076,subspecies,Papilio euchenor novohibernicus
+1968165,354224,subspecies,Papilio fuscus lapathus
+1968166,354224,subspecies,Papilio fuscus motomurai
+1968167,354224,subspecies,Papilio fuscus pertinax
+1968168,354224,subspecies,Papilio fuscus porrothenus
+1968169,354224,subspecies,Papilio fuscus talyabona
+1968170,354224,subspecies,Papilio fuscus thomsoni
+1968171,354224,subspecies,Papilio fuscus hypsicles
+1968172,76195,subspecies,Papilio helenus hystaspes
+1968173,1401853,subspecies,Papilio iswara karimatanus
+1968174,1968081,subspecies,Papilio iswaroides curtisi
+1968175,1239066,subspecies,Papilio bootes janaka
+1968180,76195,subspecies,Papilio helenus mangarinus
+1968181,76198,subspecies,Papilio memnon bunguranomemnon
+1968182,76198,subspecies,Papilio memnon lowii
+1968183,7145,species,Papilio mayo
+1968184,110794,subspecies,Papilio aegeus oritas
+1968185,110794,subspecies,Papilio aegeus websteri
+1968186,1968088,subspecies,Papilio phestus minusculus
+1968187,1968088,subspecies,Papilio phestus parkinsoni
+1968188,1968091,subspecies,Papilio sataspes artaphernes
+1968194,76194,subspecies,Papilio polytes ledebouria
+1968195,76198,subspecies,Papilio memnon merapu
+1968198,262658,subspecies,Papilio nephelus aff. chaon JJ-2017
+1977496,7143,no rank,unclassified Papilionidae
+1977497,1977496,species,Papilionidae sp. CC15C-18
+1979880,1239066,subspecies,Papilio bootes mindoni
+1979881,76198,subspecies,Papilio memnon extremus
+2004851,447238,species,Parnassius choui
+2009298,7145,species,Papilio glaucus x Papilio canadensis
+2011092,7145,species,Papilio saharae
+2011093,7145,species,Papilio benguetanus
+2046149,2677014,species,Baronia sp. (in: butterflies)
+2049139,475296,species,Eurytides lysithous
+2049140,475296,species,Eurytides microdamas
+2060204,3419087,species,Eurytides dolicaon
+2064775,95591,species,Ornithoptera richmondia
+2064825,85298,species,Atrophaneura dixoni
+2066002,76256,species,Pachliopta kotzebuea
+2082251,76204,species,Graphium confucius
+2082252,76204,species,Graphium daiyuanae
+2082253,76204,species,Graphium hoeneanus
+2082254,501404,subspecies,Graphium mandarinus stilwelli
+2082255,501404,subspecies,Graphium mandarinus fangana
+2082256,501404,subspecies,Graphium mandarinus kimurai
+2082257,501404,subspecies,Graphium mandarinus mandarinus
+2082259,501404,subspecies,Graphium mandarinus paphus
+2234005,475296,species,Eurytides agesilaus
+2234006,475296,species,Eurytides anaxilaus
+2234007,475296,species,Eurytides calliste
+2234008,475296,species,Eurytides celadon
+2234009,475296,species,Eurytides marcellinus
+2234010,475296,species,Eurytides zonaria
+2530495,76204,species,Graphium wenlingae
+2567158,110799,subspecies,Parnassius apollo claudius
+2567159,213953,subspecies,Parnassius mnemosyne hartmanni
+2572206,2060204,subspecies,Eurytides dolicaon deicoon
+2572207,763936,subspecies,Losaria neptunus creber
+2572208,763937,subspecies,Meandrusa sciron aribbas
+2572209,2049139,subspecies,Eurytides lysithous rurik
+2572210,77249,subspecies,Papilio alexanor hazarajatica
+2572211,7145,species,Papilio antimachus
+2572212,213944,subspecies,Parnassius imperator regulus
+2572213,1896070,subspecies,Eurytides protesilaus protesilaus
+2572215,77245,subspecies,Eurytides marcellus marcellus
+2572216,1758019,subspecies,Troides rhadamantus plateni
+2623031,95587,no rank,unclassified Troides
+2630530,93375,no rank,unclassified Bhutanitis
+2635297,95571,no rank,unclassified Parides
+2636018,129451,no rank,unclassified Trogonoptera
+2640042,42287,no rank,unclassified Battus
+2644101,7145,no rank,unclassified Papilio
+2646704,475296,no rank,unclassified Mimoides
+2661620,157375,subspecies,Graphium eurypylus eurypylus
+2661621,157375,subspecies,Graphium eurypylus extensus
+2665931,76204,species,Graphium alebion
+2665932,157386,subspecies,Graphium tamerlanus kansuensis
+2665933,157386,subspecies,Graphium tamerlanus tamerlanus
+2665934,76204,species,Graphium parus
+2677014,132694,no rank,unclassified Baronia (in: butterflies)
+2680768,76256,species,Pachliopta aristolochia
+2680769,2680768,subspecies,Pachliopta aristolochia goniophiltis
+2680778,2854840,species,Papilio eurymedon
+2683828,77251,subspecies,Papilio indra pergamus
+2683829,77251,subspecies,Papilio indra nevadensis
+2683830,76193,subspecies,Papilio machaon syriacus
+2683831,76193,subspecies,Papilio machaon ussuriensis
+2683832,76193,subspecies,Papilio machaon britannicus
+2689068,76204,no rank,unclassified Graphium (in: butterflies)
+2696334,76204,species,Graphium colonna
+2705527,45779,subspecies,Papilio glaucus glaucus
+2714300,7145,species,Papilio chikae
+2731364,76225,species,Byasa hedistus
+2731733,95586,subspecies,Losaria coon coon
+2731734,763936,subspecies,Losaria neptunus doris
+2731735,95585,species,Losaria palu
+2731736,95585,species,Losaria rhodifer
+2731737,76256,species,Pachliopta polyphontes
+2731844,95586,subspecies,Losaria coon sangkapurae
+2732002,95586,subspecies,Losaria coon doubledayi
+2732003,95586,subspecies,Losaria coon insperatus
+2750388,76204,species,Graphium latreillianus
+2750389,157390,subspecies,Graphium leonidas leonidas
+2750390,157382,subspecies,Graphium policenes policenes
+2750402,284990,subspecies,Papilio lormieri lormieri
+2750403,1491814,subspecies,Papilio nireus nireus
+2750461,2644101,species,Papilio sp. 1 AOA-2020
+2750462,2644101,species,Papilio sp. 2 AOA-2020
+2750537,76204,species,Graphium cf. policenes BTCR579
+2750538,76204,species,Graphium cf. policenes BTCR585
+2750539,76204,species,Graphium cf. policenes BTCR587
+2750540,76204,species,Graphium cf. policenes BTCR588
+2750541,76204,species,Graphium cf. policenes BTCR597
+2750542,76204,species,Graphium cf. policenes BTCR600
+2750543,76204,species,Graphium cf. policenes BTCR608
+2750544,76204,species,Graphium cf. policenes BTCR611
+2750545,76204,species,Graphium cf. policenes BTCR614
+2750546,76204,species,Graphium cf. policenes BTCR630
+2750547,76204,species,Graphium cf. policenes BTCR631
+2750548,76204,species,Graphium cf. policenes BTCR635
+2750549,76204,species,Graphium cf. policenes BTCR650
+2750550,76204,species,Graphium cf. policenes BTCR688
+2750551,76204,species,Graphium cf. policenes BTCR689
+2750552,76204,species,Graphium cf. policenes BTCR690
+2750553,76204,species,Graphium cf. policenes BTCR692
+2750554,76204,species,Graphium cf. policenes BTCR693
+2750555,76204,species,Graphium cf. policenes BTCR694
+2750556,76204,species,Graphium cf. policenes BTCR696
+2750557,76204,species,Graphium cf. policenes BTCR697
+2750558,76204,species,Graphium cf. policenes BTCR699
+2750559,76204,species,Graphium cf. policenes BTCR700
+2750560,76204,species,Graphium cf. policenes BTCR705
+2750561,76204,species,Graphium cf. policenes BTCR708
+2750562,76204,species,Graphium cf. policenes BTCR709
+2750563,76204,species,Graphium cf. policenes BTCR711
+2750564,76204,species,Graphium cf. policenes BTCR713
+2750565,76204,species,Graphium cf. policenes BTCR714
+2750566,76204,species,Graphium cf. policenes BTCR715
+2750567,76204,species,Graphium cf. policenes BTCR743
+2750568,76204,species,Graphium cf. policenes BTCR746
+2750569,76204,species,Graphium cf. policenes BTCR748
+2750570,76204,species,Graphium cf. policenes BTCR760
+2750571,76204,species,Graphium cf. policenes BTCR765
+2750572,76204,species,Graphium cf. policenes BTCR766
+2750573,76204,species,Graphium cf. policenes BTCR776
+2753077,95565,subspecies,Battus polydamas polydamas
+2753892,3056687,subspecies,Eurytides phaon phaon
+2785421,157375,subspecies,Graphium eurypylus lauriei
+2795572,2854839,species,Papilio ponceana
+2795581,2795572,subspecies,Papilio ponceana bjorndalae
+2795582,2795572,subspecies,Papilio ponceana latefasciatus
+2795583,2795572,subspecies,Papilio ponceana ponceana
+2798576,7146,subspecies,Papilio polyxenes rudkini
+2812640,7145,species,Papilio natewa
+2820856,447264,species,Parnassius nebrodensis
+2822401,501405,subspecies,Graphium mullah kooichii
+2836054,202796,subspecies,Teinopalpus aureus wuyiensis
+2839276,475296,species,Eurytides xynias
+2839308,110799,subspecies,Parnassius apollo sibiricus
+2847442,95570,subspecies,Cressida cressida cressida
+2847557,157394,subspecies,Lamproptera curius walkeri
+2847590,110792,species,Meandrusa lachinus
+2854839,7145,subgenus,Heraclides
+2854840,7145,subgenus,Pterourus
+2854841,7145,subgenus,Chilasa
+2854947,3419087,species,Eurytides callias
+2854948,2060204,subspecies,Eurytides dolicaon deileon
+2854949,709182,subspecies,Eurytides philolaus philolaus
+2855042,475296,species,Eurytides ariarathes
+2855043,2855042,subspecies,Eurytides ariarathes evagorides
+2855044,475296,species,Eurytides thymbraeus
+2855066,7145,species,Papilio hellanichus
+2855067,1527530,subspecies,Papilio isidorus autana
+2855068,709230,subspecies,Papilio pallas pallas
+2855069,50442,subspecies,Papilio troilus troilus
+2855070,1159113,subspecies,Papilio victorinus victorinus
+2855112,763938,species,Eurytides earis
+2870842,85298,species,Atrophaneura kuehni
+2870843,85298,species,Atrophaneura sycorax
+2870845,95571,species,Parides alopius
+2870846,95571,species,Parides cutorina
+2870847,95571,species,Parides echemon
+2870848,95571,species,Parides gundlachianus
+2870849,95571,species,Parides klagesi
+2870850,95571,species,Parides orellana
+2870851,95571,species,Parides phalaecus
+2870852,95571,species,Parides phosphorus
+2870853,95571,species,Parides pizarro
+2870854,95571,species,Parides quadratus
+2870855,95571,species,Parides vercingetorix
+2904983,76193,subspecies,Papilio machaon annae
+2942260,709179,subspecies,Eurytides dioxippus diores
+2988421,76204,species,Graphium anthedon
+2988422,76204,species,Graphium antheus
+2988423,76204,species,Graphium porthaon
+2988640,475296,species,Eurytides euryleon
+2988641,475296,species,Eurytides xeniades
+2988843,763938,species,Eurytides stenodesmus
+2989224,76204,species,Graphium sandawanum
+2991133,76204,species,Graphium teredon
+2991551,7145,species,Papilio dehaanii x (Papilio dehaanii x Papilio bianor)
+2991552,7145,species,Papilio bianor x (Papilio bianor x Papilio dehaanii)
+2991554,7145,species,Papilio bianor x Papilio dehaanii
+3014041,2689068,species,Graphium sp. (in: butterflies)
+3016584,1377905,subspecies,Graphium macfarlanei macfarlanei
+3016585,2989224,subspecies,Graphium sandawanum sandawanum
+3016610,1376682,subspecies,Protographium leosthenes leosthenes
+3016680,157375,subspecies,Graphium eurypylus lycaon
+3017176,330353,subspecies,Parnassius jacquemontii tibetanus
+3017585,2988421,subspecies,Graphium anthedon anthedon
+3017588,2988421,subspecies,Graphium anthedon monticolus
+3017594,157380,subspecies,Graphium milon milon
+3017597,76205,subspecies,Graphium sarpedon luctatius
+3017958,93715,subspecies,Parnassius smintheus magnus
+3047422,76225,species,Byasa adamsoni
+3047423,76225,species,Byasa crassipes
+3047424,76225,species,Byasa daemonius
+3047425,76225,species,Byasa laos
+3047426,76225,species,Byasa latreillei
+3047427,76225,species,Byasa nevilli
+3047428,76225,species,Byasa plutonius
+3047429,76225,species,Byasa polla
+3047439,85299,subspecies,Byasa alcinous alcinous
+3047440,85299,subspecies,Byasa alcinous bradanus
+3047441,85299,subspecies,Byasa alcinous loochooana
+3047442,85299,subspecies,Byasa alcinous miyakoensis
+3047443,85299,subspecies,Byasa alcinous yakushimana
+3047444,393871,subspecies,Byasa dasarada barata
+3047446,129444,subspecies,Byasa polyeuctes lama
+3047881,3047428,subspecies,Byasa plutonius plutonius
+3047882,129444,subspecies,Byasa polyeuctes polyeuctes
+3047883,157364,subspecies,Graphium agetes agetes
+3047884,866282,subspecies,Graphium chironides chironides
+3047885,157381,subspecies,Graphium cloanthus cloanthus
+3047886,501398,subspecies,Papilio agestor agestor
+3047887,76196,subspecies,Papilio protenor protenor
+3047888,501369,subspecies,Troides aeacus aeacus
+3047889,501405,subspecies,Graphium mullah mullah
+3047890,76225,species,Byasa genestieri
+3047891,3047426,subspecies,Byasa latreillei kabrua
+3047892,157371,subspecies,Graphium antiphates pompilius
+3047893,76193,subspecies,Papilio machaon hookeri
+3047894,349369,subspecies,Bhutanitis lidderdalii spinosa
+3047895,93377,subspecies,Bhutanitis thaidina hoenei
+3047896,3047424,subspecies,Byasa daemonius yunnana
+3047897,393871,subspecies,Byasa dasarada ouvrardi
+3047898,3047428,subspecies,Byasa plutonius tytleri
+3047899,76225,species,Byasa rhadinus
+3047900,76204,species,Graphium albociliatis
+3047901,157381,subspecies,Graphium cloanthus clymenus
+3047902,76206,subspecies,Graphium doson actor
+3047903,76206,subspecies,Graphium doson axion
+3047904,157387,subspecies,Graphium eurous panopaea
+3047905,157367,subspecies,Graphium macareus indochinensis
+3047906,501395,subspecies,Graphium nomius swinhoei
+3047907,76204,species,Graphium septentrionicolus
+3047908,157370,subspecies,Graphium xenocles kephisos
+3047909,157393,subspecies,Lamproptera meges indistincta
+3047910,157393,subspecies,Lamproptera meges pallidus
+3047911,157392,species,Lamproptera paracurius
+3047912,2847590,subspecies,Meandrusa lachinus aribbas
+3047913,110793,subspecies,Meandrusa payeni amphis
+3047914,110793,subspecies,Meandrusa payeni langsonensis
+3047915,76257,subspecies,Pachliopta aristolochiae goniopeltis
+3047916,76199,subspecies,Papilio bianor triumphator
+3047917,1239066,subspecies,Papilio bootes parcesquamata
+3047918,262653,subspecies,Papilio epycides curiatius
+3047919,262653,subspecies,Papilio epycides hypochra
+3047920,76201,subspecies,Papilio maackii han
+3047921,76193,subspecies,Papilio machaon schantungensis
+3047922,866284,subspecies,Papilio paradoxa telearchus
+3047923,76194,subspecies,Papilio polytes latreilloides
+3047924,7145,species,Papilio verityi
+3047925,213927,subspecies,Parnassius cephalus takenakai
+3047926,157461,subspecies,Teinopalpus imperialis behludinii
+3048675,157394,subspecies,Lamproptera curius hsinningae
+3048676,157394,subspecies,Lamproptera curius yangtzeanus
+3048677,1239066,subspecies,Papilio bootes nigricauda
+3048678,351162,subspecies,Papilio krishna benyongi
+3049739,3047426,subspecies,Byasa latreillei ticona
+3056687,475296,species,Eurytides phaon
+3056767,81069,subspecies,Luehdorfia chinensis huashanensis
+3064293,95587,species,Troides miranda
+3064718,95587,species,Troides andromache
+3074016,3064718,subspecies,Troides andromache andromache
+3074017,3064293,subspecies,Troides miranda neomiranda
+3074018,3064293,subspecies,Troides miranda miranda
+3076836,213934,subspecies,Parnassius epaphus epaphus
+3078871,221691,subspecies,Byasa impediens impediens
+3078872,3047426,subspecies,Byasa latreillei latreillei
+3078873,199695,subspecies,Byasa mencius mencius
+3078874,129444,subspecies,Byasa polyeuctes letincius
+3078875,3047422,subspecies,Byasa adamsoni adamsoni
+3078883,393871,subspecies,Byasa dasarada ravana
+3078884,3047426,subspecies,Byasa latreillei robus
+3078924,3047422,subspecies,Byasa adamsoni takakoae
+3078925,76225,species,Byasa confusa
+3078926,3078925,subspecies,Byasa confusa mansonensis
+3079386,42287,species,Battus devilliersii
+3079408,1527570,subspecies,Papilio pelaus atkinsi
+3080395,93377,subspecies,Bhutanitis thaidina thaidina
+3080396,213909,subspecies,Parnassius acdestis cinerosus
+3080397,213913,subspecies,Parnassius andreji norikoae
+3080398,213924,subspecies,Parnassius bremeri amgunensis
+3080399,213927,subspecies,Parnassius cephalus erlaensis
+3080400,213957,subspecies,Parnassius orleans orleans
+3080401,213966,subspecies,Parnassius simo qilianshanicus
+3087069,76206,subspecies,Graphium doson robinson
+3087088,763937,subspecies,Meandrusa sciron hajiangensis
+3096670,157387,subspecies,Graphium eurous sikkimica
+3096671,157367,subspecies,Graphium macareus mitis
+3096672,76204,species,Graphium megarus
+3096673,3096672,subspecies,Graphium megarus megapenthes
+3096674,157370,subspecies,Graphium xenocles lindos
+3096675,157370,subspecies,Graphium xenocles xenoclides
+3101572,1239066,subspecies,Papilio bootes rubicundus
+3110675,1977496,species,Papilionidae sp.
+3115829,3047890,subspecies,Byasa genestieri genestieri
+3127644,76204,species,Graphium stresemanni
+3132687,95593,subspecies,Ornithoptera priamus priamus
+3132768,95591,no rank,unclassified Ornithoptera
+3132769,3132768,species,Ornithoptera sp. pg EP-2024
+3142153,93715,subspecies,Parnassius smintheus maximus
+3142154,93715,subspecies,Parnassius smintheus olympianna
+3142155,93715,subspecies,Parnassius smintheus pseudorotgeri
+3142156,93715,subspecies,Parnassius smintheus sayii
+3142157,93715,subspecies,Parnassius smintheus sternitzkyi
+3142158,93715,subspecies,Parnassius smintheus yukonensis
+3150744,7145,species,Papilio castor
+3156019,76194,subspecies,Papilio polytes stichioides
+3233885,157364,subspecies,Graphium agetes hoenei
+3238351,76204,species,Graphium almansor
+3238352,3238351,subspecies,Graphium almansor almansor
+3238353,1365842,subspecies,Graphium arycles arycles
+3238354,76204,species,Graphium cf. bouyeri
+3238355,674871,subspecies,Graphium cyrnus cyrnus
+3238356,76204,species,Graphium deucalion
+3238357,3238356,subspecies,Graphium deucalion deucalion
+3238358,157379,subspecies,Graphium empedovana empedovana
+3238359,676905,subspecies,Graphium evombar evombar
+3238360,202805,subspecies,Graphium macleayanus macleayanus
+3238361,1531491,subspecies,Graphium meyeri meyeri
+3238362,76204,species,Graphium philonoe
+3238363,3238362,subspecies,Graphium philonoe philonoe
+3238364,2988423,subspecies,Graphium porthaon porthaon
+3238365,1898591,subspecies,Graphium ucalegon ucalegon
+3238366,157377,subspecies,Graphium wallacei wallacei
+3238367,157378,subspecies,Graphium weiskei weiskei
+3238368,110791,subspecies,Iphiclides podalirius podalirius
+3238369,2855042,subspecies,Eurytides ariarathes ariarathes
+3238370,1110720,subspecies,Eurytides pausanias pausanias
+3238371,2855044,subspecies,Eurytides thymbraeus thymbraeus
+3238372,3419087,species,Eurytides bellerophon
+3238373,3419087,species,Eurytides columbus
+3238374,3419087,species,Eurytides salvini
+3238376,76204,species,Graphium agamedes
+3238377,157364,subspecies,Graphium agetes insularis
+3238378,76204,species,Graphium angolanus
+3238379,3238378,subspecies,Graphium angolanus baronis
+3238380,76204,species,Graphium auriger
+3238381,76204,species,Graphium bouyeri
+3238382,3238381,subspecies,Graphium bouyeri birketsmithi
+3238383,76204,species,Graphium browni
+3238384,866282,subspecies,Graphium chironides malayanum
+3238385,157391,subspecies,Graphium codrus gilolensis
+3238386,76204,species,Graphium decolor
+3238387,3238386,subspecies,Graphium decolor neozebraica
+3238388,3238356,subspecies,Graphium deucalion felixi
+3238389,202803,subspecies,Graphium dorcus butungense
+3238390,76204,species,Graphium ebertorum
+3238391,76204,species,Graphium encelades
+3238392,76204,species,Graphium epaminondas
+3238393,76204,species,Graphium euphrates
+3238394,3238393,subspecies,Graphium euphrates domaranum
+3238395,157387,subspecies,Graphium eurous melli
+3238397,76204,species,Graphium gelon
+3238398,157383,subspecies,Graphium glycerion caschmirense
+3238399,76204,species,Graphium gudenusi
+3238400,76204,species,Graphium hachei
+3238401,3238400,subspecies,Graphium hachei moebii
+3238402,76204,species,Graphium hicetaon
+3238403,76204,species,Graphium idaeoides
+3238404,3238403,subspecies,Graphium idaeoides neergaardi
+3238405,76204,species,Graphium illyris
+3238406,76204,species,Graphium junodi
+3238407,76204,species,Graphium kirbyi
+3238408,76204,species,Graphium kosii
+3238409,2750388,subspecies,Graphium latreillianus theorini
+3238410,76204,species,Graphium levassori
+3238411,157367,subspecies,Graphium macareus albinovanus
+3238412,76204,species,Graphium meeki
+3238413,3238412,subspecies,Graphium meeki inexpectatum
+3238414,76204,species,Graphium mendana
+3238415,3238414,subspecies,Graphium mendana acous
+3238416,76204,species,Graphium polistratus
+3238417,76204,species,Graphium procles
+3238418,76204,species,Graphium rhesus
+3238419,3238418,subspecies,Graphium rhesus rhesulus
+3238420,76204,species,Graphium schaffgotschi
+3238421,76204,species,Graphium schubotzi
+3238422,76204,species,Graphium simoni
+3238423,76204,species,Graphium stratocles
+3238424,3238423,subspecies,Graphium stratocles senectus
+3238425,76204,species,Graphium sumatranum
+3238426,76204,species,Graphium taboranus
+3238428,157393,subspecies,Lamproptera meges akirai
+3238429,2988640,subspecies,Eurytides euryleon clusoculis
+3238430,2049139,subspecies,Eurytides lysithous eupatorion
+3238431,475296,species,Eurytides protodamas
+3238432,2988641,subspecies,Eurytides xeniades signatus
+3238433,2839276,subspecies,Eurytides xynias trapeza
+3238434,763939,subspecies,Eurytides glaucolaus leucas
+3238435,763938,species,Eurytides leucosilaus
+3238436,763938,species,Eurytides macrosilaus
+3238437,3238436,subspecies,Eurytides macrosilaus penthesilaus
+3238438,763938,species,Eurytides orthosilaus
+3238439,1896070,subspecies,Eurytides protesilaus nigricornis
+3238440,1896071,subspecies,Eurytides telesilaus vitellus
+3239449,76204,species,Graphium garhwalicum
+3247655,299021,subspecies,Parides panthonus barbotini
+3247656,299021,subspecies,Parides panthonus castilhoi
+3247657,299021,subspecies,Parides panthonus panthonus
+3248551,1402372,subspecies,Papilio prexaspes bowringi
+3367311,7145,species,Papilio theseus
+3367315,3367311,subspecies,Papilio theseus sotira
+3367316,3367311,subspecies,Papilio theseus timorensis
+3367317,3367311,subspecies,Papilio theseus alcindor
+3367319,3367311,subspecies,Papilio theseus javanus
+3375374,157378,subspecies,Graphium weiskei goodenovii
+3375375,3238408,subspecies,Graphium kosii kosii
+3375376,3238408,subspecies,Graphium kosii gigantor
+3391257,157365,subspecies,Graphium aristeus palasarinus
+3391259,501398,subspecies,Papilio agestor restrictus
+3391260,262653,subspecies,Papilio epycides horatius
+3391261,866285,subspecies,Papilio slateri hainanensis
+3409845,76193,subspecies,Papilio machaon ladakensis
+3409846,7145,species,Papilio everesti
+3409847,76193,subspecies,Papilio machaon sylvina
+3409848,76193,subspecies,Papilio machaon archias
+3409849,76193,subspecies,Papilio machaon orientis
+3409850,76193,subspecies,Papilio machaon kamtschadalus
+3409851,76193,subspecies,Papilio machaon asiaticus
+3409852,76193,subspecies,Papilio machaon sachalinensis
+3415381,85298,species,Atrophaneura astorion
+3415392,3415381,subspecies,Atrophaneura astorion varuna
+3415393,3415381,subspecies,Atrophaneura astorion zaleuca
+3415394,85298,species,Atrophaneura hageni
+3415395,2870842,subspecies,Atrophaneura kuehni kuehni
+3415396,85298,species,Atrophaneura matsudai
+3415397,95580,subspecies,Atrophaneura nox nox
+3415398,95580,subspecies,Atrophaneura nox nyx
+3415399,95579,subspecies,Atrophaneura priapus priapus
+3415400,1898588,subspecies,Atrophaneura semperi albofasciata
+3415401,1898588,subspecies,Atrophaneura semperi aphthonia
+3415402,1898588,subspecies,Atrophaneura semperi imogene
+3415403,1898588,subspecies,Atrophaneura semperi semperi
+3415404,1898588,subspecies,Atrophaneura semperi supernotatus
+3415405,2870843,subspecies,Atrophaneura sycorax carolinae
+3415406,2870843,subspecies,Atrophaneura sycorax egertoni
+3415407,3078925,subspecies,Byasa confusa confusa
+3415408,76225,species,Byasa mukoyamai
+3419087,77244,subgenus,Eurytides
+3439008,76204,species,Graphium phidias
+3453563,2011092,subspecies,Papilio saharae saharae
+3453564,76193,subspecies,Papilio machaon rinpoche
+3479782,95595,subspecies,Ornithoptera goliath procus
+3494599,213895,no rank,unclassified Archon
+3494600,3494599,species,Archon sp.
+3570202,212386,subspecies,Parnassius eversmanni daisetsuzanus
+3613326,2644101,species,Papilio sp.
+3626195,76195,subspecies,Papilio helenus nicconicolens
+3626196,76198,subspecies,Papilio memnon thunbergii
+3688190,95589,subspecies,Troides amphrysus euthydemus
+3688191,95589,subspecies,Troides amphrysus flavicollis
+3688192,3064718,subspecies,Troides andromache marapokensis
+3688193,1758014,subspecies,Troides cuneifer paeninsulae
+3688194,95588,subspecies,Troides hypolitus hypolitus
+3695458,95587,species,Troides celebensis
+3698006,213926,subspecies,Parnassius cardinal hunza
+3712785,3409846,subspecies,Papilio everesti alpherakyi
+3712786,76193,subspecies,Papilio machaon aestivus
+3712787,2011092,subspecies,Papilio saharae rathjensi
+3712788,3409846,subspecies,Papilio everesti kiyonobu
+3712789,76193,subspecies,Papilio machaon centralis
+3712790,2011092,subspecies,Papilio saharae mauretanica
+3713159,76193,subspecies,Papilio machaon sphyrus
+3714032,213934,subspecies,Parnassius epaphus sikkimensis
+3714041,213934,subspecies,Parnassius epaphus pseudosikkimensis

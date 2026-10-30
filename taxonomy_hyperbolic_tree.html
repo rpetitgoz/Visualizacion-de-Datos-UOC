@@ -1,0 +1,35 @@
+<!doctype html> <!-- format html -->
+<meta charset="utf-8"> <!-- character encoding -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/d3-hypertree@1.1.3/dist/d3-hypertree-light.min.css"> <!-- hypertree style -->
+<script src="https://cdn.jsdelivr.net/npm/d3@4.13.0/build/d3.min.js"></script> <!-- load d3 library -->
+<script src="https://cdn.jsdelivr.net/npm/d3-hypertree@1.1.3/dist/d3-hypertree.min.js"></script> <!-- load d3-hypertree library -->
+<style>html, body { height: 100%; margin: 0; } #tree { position: fixed; inset: 0; } h1 { position: fixed; top: 12px; left: 16px; z-index: 10; margin: 0; font: 600 20px sans-serif; } #credit { position: fixed; right: 8px; bottom: 6px; font: 11px sans-serif; }</style> <!-- full height and no margin -->
+<body>
+<div id="tree"></div>
+<h1>Papilionidae Taxonomy Hyperbolic Tree</h1>
+<a id="credit" href="https://github.com/glouwa/d3-hypertree">d3-hypertree</a> <!-- credits to the d3-hypertree library -->
+</body>
+<script>
+  const ROOT_ID = "7143"; // Papilionidae id 7143 as constant
+  d3.csv("taxonomy.csv", (error, rows) => {
+    const nodes = {};
+    rows.forEach(row => {
+      nodes[row.tax_id] = { // create a node object for each tax_id
+        tax_id: row.tax_id,
+        name: row.scientific_name,
+        rank: row.rank,
+        children: []
+      };
+    });
+    rows.forEach(row => {
+      if (row.tax_id === ROOT_ID) return;
+      nodes[row.parent_tax_id].children.push(nodes[row.tax_id]); // add child node to its parent's children array
+    });
+    new hyt.Hypertree({ parent: document.getElementById("tree") }, { // create hypertree visualization
+      layout: { rootWedge: { angle: 1.9 * Math.PI } }, // set the root wedge angle for the hypertree
+      interaction: { "\u03bbbounds": [0.2, 0.9] }, // set zoom bounds
+      langInitBFS: (_, n) => n.precalc.label = n.data.name, // initialize node labels for BFS traversal to display node names
+      dataloader: load => load(nodes[ROOT_ID])
+    });
+  });
+</script>
